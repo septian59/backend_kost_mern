@@ -18,7 +18,7 @@ const featureSchema = new mongoose.Schema({
     },
     itemId: {
         type: ObjectId,
-        ref : Item
+        ref : 'Item'
     }
 })
 
