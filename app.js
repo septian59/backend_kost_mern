@@ -9,12 +9,15 @@ const flash = require("connect-flash");
 const cors = require("cors");
 //import mongoose
 const mongoose = require("mongoose");
-mongoose.connect("mongodb://127.0.0.1:27017/db_kostme", {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-  useCreateIndex: true,
-  useFindAndModify: false,
-});
+mongoose.connect(
+  "mongodb+srv://septian:upilmumu@cluster0.juhdo.mongodb.net/db_kostme?retryWrites=true&w=majority",
+  {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    useCreateIndex: true,
+    useFindAndModify: false,
+  }
+);
 
 //time cookie
 // var expiryDate = new Date(Date.now() +  1000) // 1 hour

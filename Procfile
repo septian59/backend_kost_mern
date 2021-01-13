@@ -1,1 +1,1 @@
-wep: node app.js
+wep: node ./bin/www
