@@ -34,7 +34,7 @@ const itemSchema = new mongoose.Schema({
 
   unit: {
     type: String,
-    default: "night",
+    default: "bulan",
   },
 
   sumBooking: {
