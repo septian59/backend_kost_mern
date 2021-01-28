@@ -55,7 +55,7 @@ var data = [
     documents: [
       {
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc901111"),
-        name: "Houses with beauty backyard",
+        name: "Kost Kamar Mandi dalam",
         itemId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902222") },
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902223") },
@@ -65,7 +65,7 @@ var data = [
       },
       {
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc901112"),
-        name: "Hotels with large living room",
+        name: "Kost Kamar Mandi luar",
         itemId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902226") },
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902227") },
@@ -75,7 +75,7 @@ var data = [
       },
       {
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc901113"),
-        name: "Apartment with kitchen",
+        name: "Kontrakan",
         itemId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902230") },
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902231") },
@@ -513,15 +513,14 @@ var data = [
       // One Five
       {
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902231"),
-        title: "One Five",
-        price: 20,
+        title: "Kontrakan Rama",
+        price: 12000000,
         sumBooking: 11,
         country: "Indonesia",
-        city: "Bandung",
+        city: "SMKN 2 Purwokerto",
         isPopular: false,
-        description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
-        unit: "night",
+        description: "Alamat desa kedung malang rt3/1kec sumbang",
+        unit: "tahun",
         imageId: [
           // done
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90cd28") },
@@ -560,15 +559,15 @@ var data = [
       // Minimal
       {
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902232"),
-        title: "Minimal",
-        price: 20,
+        title: "Kontrakan Yusuf",
+        price: 10000000,
         sumBooking: 13,
         country: "Indonesia",
-        city: "Bandung",
+        city: "Amikom",
         isPopular: false,
         description:
           "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
-        unit: "night",
+        unit: "tahun",
         imageId: [
           // done
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90cd32") },
@@ -607,15 +606,15 @@ var data = [
       // Stays Home
       {
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902233"),
-        title: "Stays Home",
-        price: 20,
+        title: "Baba",
+        price: 300000,
         sumBooking: 14,
         country: "Indonesia",
         city: "Bandung",
         isPopular: false,
         description:
           "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
-        unit: "night",
+        unit: "bulan",
         imageId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90cd36") },
           // done
