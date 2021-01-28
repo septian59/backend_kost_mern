@@ -70,7 +70,7 @@ var data = [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902226") },
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902227") },
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902228") },
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902229") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902233") },
         ],
       },
       {
@@ -80,7 +80,7 @@ var data = [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902230") },
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902231") },
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902232") },
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902233") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc902229") },
         ],
       },
     ],
@@ -112,21 +112,17 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa09") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa10") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa11") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa12") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03") },
           // done
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa13") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa14") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa15") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa16") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04") },
         ],
         activityId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb05") },
@@ -146,8 +142,7 @@ var data = [
         country: "Indonesia",
         city: "Unsoed",
         isPopular: false,
-        description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        description: "jalan kenanga, gang pepaya, deket masjid alfalah",
         unit: "bulan",
         imageId: [
           // done
@@ -159,21 +154,17 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa06") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa07") },
+
           // done
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa08") },
+          // done
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa09") },
+          // done
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa10") },
+          // done
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa11") },
+          // done
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa12") },
         ],
         activityId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb01") },
@@ -193,8 +184,7 @@ var data = [
         country: "Indonesia",
         city: "Unsoed",
         isPopular: false,
-        description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        description: "jl gunung putri, sebrang poppies unsoed",
         unit: "bulan",
         imageId: [
           // done
@@ -206,21 +196,15 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa13") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa14") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa15") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa16") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa06") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa07") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa08") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa17") },
         ],
         activityId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb01") },
@@ -253,21 +237,13 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
+
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa18") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa19") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa06") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa07") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa08") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa20") },
         ],
         activityId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb01") },
@@ -288,7 +264,7 @@ var data = [
         city: "Unsoed",
         isPopular: false,
         description:
-          "Masih ada kamar kosong. 5 kamar kamar mandi dalem 500/bulan,semua dah free WiFi internet unlimited/bln + kebersihan free biaya/bln.area univ.UNSOED (keperawatan,kedokteran,peternakan,pertanian,bhs Inggris),Deket kampus LP3i,kampus BSI purwokerto-jateng.khusus mahasiswi/wanita,karyawan wanita single.lokasi dijaln kenanga,gang Kacer Rt.02 / Rw.02 Purwokerto utara.",
+          "semua dah free WiFi internet unlimited/bln + kebersihan free biaya/bln.area univ.UNSOED (keperawatan,kedokteran,peternakan,pertanian,bhs Inggris),Deket kampus LP3i,kampus BSI purwokerto-jateng.khusus mahasiswi/wanita,karyawan wanita single.lokasi dijaln kenanga,gang Kacer Rt.02 / Rw.02 Purwokerto utara.",
         unit: "bulan",
         imageId: [
           // done
@@ -300,7 +276,7 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
+
           // done
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
           // done
@@ -346,21 +322,13 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
+
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa24") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa25") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa06") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa07") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa08") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa26") },
         ],
         activityId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb01") },
@@ -392,21 +360,13 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
+
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa27") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa28") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa06") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa07") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa08") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa29") },
         ],
         activityId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb01") },
@@ -438,21 +398,15 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
+
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa30") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa31") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa32") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa06") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa07") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa08") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa33") },
         ],
         activityId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb01") },
@@ -460,7 +414,7 @@ var data = [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb03") },
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb04") },
         ],
-        categoryId: "5e96cbe292b97300fc901112",
+        categoryId: "5e96cbe292b97300fc901113",
       },
 
       // PS Wood
@@ -485,21 +439,15 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
+
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa39") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa40") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa41") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa06") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa07") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa08") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa42") },
         ],
         activityId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb01") },
@@ -531,21 +479,15 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
+
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa43") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa44") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa45") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa06") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa07") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa08") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa46") },
         ],
         activityId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb01") },
@@ -565,8 +507,7 @@ var data = [
         country: "Indonesia",
         city: "Amikom",
         isPopular: false,
-        description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        description: "Jalan Bobosan wa 0813-4332-5198",
         unit: "tahun",
         imageId: [
           // done
@@ -578,21 +519,17 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
+
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa47") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa48") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa49") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa50") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa06") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa07") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa08") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa51") },
         ],
         activityId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb01") },
@@ -610,10 +547,10 @@ var data = [
         price: 300000,
         sumBooking: 14,
         country: "Indonesia",
-        city: "Bandung",
+        city: "SMKN 2 Purwokerto",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+          "Jalan Sekolah Teknik Gang 2 Belakang SMKN 2 Purwokerto (pusat kota kemana mana deket yah ) Akses mobil tapi parkiran garasi hanya untuk motor saja , Untuk mobil tidak bisa parkir menginap di kost ... Keterangan lebih lanjut bisa WA yah 085842519720",
         unit: "bulan",
         imageId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90cd36") },
@@ -625,21 +562,17 @@ var data = [
         ],
         featureId: [
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01") },
+
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa34") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa35") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa36") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa37") },
           // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa06") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa07") },
-          // done
-          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa08") },
+          { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa38") },
         ],
         activityId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb01") },
@@ -647,7 +580,7 @@ var data = [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb03") },
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90bb04") },
         ],
-        categoryId: "5e96cbe292b97300fc901113",
+        categoryId: "5e96cbe292b97300fc901112",
       },
     ],
   },
@@ -816,32 +749,32 @@ var data = [
       {
         // done
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa01"),
-        name: "bedroom",
-        qty: 2,
+        name: "kamar kost",
+        qty: 10,
         imageUrl: "images/feature-1.png",
         itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902222"),
       },
       {
         // done
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa02"),
-        name: "living room",
-        qty: 23,
+        name: "ruang tamu",
+        qty: 1,
         imageUrl: "images/feature-2.png",
         itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902222"),
       },
       {
         // done
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa03"),
-        name: "televison",
-        qty: 12,
+        name: "dapur",
+        qty: 1,
         imageUrl: "images/feature-3.png",
         itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902222"),
       },
       {
         // done
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa04"),
-        name: "televison",
-        qty: 5,
+        name: "kamar mandi",
+        qty: 1,
         imageUrl: "images/feature-4.png",
         itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902222"),
       },
@@ -849,98 +782,374 @@ var data = [
         // done
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa05"),
         name: "mbp/s",
-        qty: 5,
+        qty: 100,
         imageUrl: "images/feature-5.png",
         itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902222"),
       },
-      {
-        // done
-        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa06"),
-        name: "unit ready",
-        qty: 5,
-        imageUrl: "images/feature-6.png",
-        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902222"),
-      },
-      {
-        // done
-        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa07"),
-        name: "refigrator",
-        qty: 5,
-        imageUrl: "images/feature-7.png",
-        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902222"),
-      },
+
+      // Pondok risma
       {
         // done
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa08"),
-        name: "televion",
-        qty: 5,
-        imageUrl: "images/feature-8.png",
-        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902222"),
+        name: "kamar kost",
+        qty: 4,
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902223"),
       },
       // item 2
       {
         // done
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa09"),
-        name: "bedroom",
-        qty: 2,
-        imageUrl: "images/feature-1.png",
-        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902223"),
-      },
-      {
-        // done
-        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa10"),
-        name: "living room",
-        qty: 23,
-        imageUrl: "images/feature-2.png",
-        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902223"),
-      },
-      {
-        // done
-        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa11"),
-        name: "televison",
-        qty: 12,
-        imageUrl: "images/feature-3.png",
-        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902223"),
-      },
-      {
-        // done
-        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa12"),
-        name: "televison",
-        qty: 5,
+        name: "kamar mandi",
+        qty: 1,
         imageUrl: "images/feature-4.png",
         itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902223"),
       },
       {
         // done
-        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa13"),
-        name: "mbp/s",
-        qty: 5,
-        imageUrl: "images/feature-5.png",
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa10"),
+        name: "dapur",
+        qty: 1,
+        imageUrl: "images/feature-3.png",
         itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902223"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa11"),
+        name: "televisi",
+        qty: 1,
+        imageUrl: "images/feature-8.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902223"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa12"),
+        name: "ruang tamu",
+        qty: 1,
+        imageUrl: "images/feature-2.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902223"),
+      },
+      //kost salsa bila
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa13"),
+        name: "kamar kost",
+        qty: 4,
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902224"),
       },
       {
         // done
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa14"),
-        name: "unit ready",
-        qty: 5,
-        imageUrl: "images/feature-6.png",
-        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902223"),
+        name: "mbps",
+        qty: 100,
+        imageUrl: "images/feature-5.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902224"),
       },
       {
         // done
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa15"),
-        name: "refigrator",
+        name: "dapur",
         qty: 5,
-        imageUrl: "images/feature-7.png",
-        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902223"),
+        imageUrl: "images/feature-3.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902224"),
       },
       {
         // done
         _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa16"),
-        name: "televion",
+        name: "ruang tamu",
+        qty: 1,
+        imageUrl: "images/feature-2.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902224"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa17"),
+        name: "kamar mandi",
+        qty: 1,
+        imageUrl: "images/feature-4.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902224"),
+      },
+      //anggana
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa18"),
+        name: "kamar mandi",
+        qty: 1,
+        imageUrl: "images/feature-4.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902225"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa19"),
+        name: "dapur",
+        qty: 1,
+        imageUrl: "images/feature-3.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902225"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa20"),
+        name: "kamar kost",
         qty: 5,
-        imageUrl: "images/feature-8.png",
-        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902223"),
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902225"),
+      },
+      // kost banu
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa21"),
+        name: "kamar kost",
+        qty: 4,
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902226"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa22"),
+        name: "mbps",
+        qty: 100,
+        imageUrl: "images/feature-5.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902226"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa23"),
+        name: "kamar mandi",
+        qty: 2,
+        imageUrl: "images/feature-4.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902226"),
+      },
+      //kost al royan
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa24"),
+        name: "kamar kost",
+        qty: 8,
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902227"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa25"),
+        name: "kamar mandi",
+        qty: 3,
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902227"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa26"),
+        name: "ruang tamu",
+        qty: 1,
+        imageUrl: "images/feature-2.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902227"),
+      },
+      // kost baitur rijal
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa27"),
+        name: "kamar kost",
+        qty: 8,
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902228"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa28"),
+        name: "kamar mandi",
+        qty: 2,
+        imageUrl: "images/feature-4.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902228"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa29"),
+        name: "ruang tamu",
+        qty: 1,
+        imageUrl: "images/feature-2.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902228"),
+      },
+      //kontrakan aster
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa30"),
+        name: "kamar tidur",
+        qty: 4,
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902229"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa31"),
+        name: "kamar mandi",
+        qty: 2,
+        imageUrl: "images/feature-4.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902229"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa32"),
+        name: "ruang tamu",
+        qty: 1,
+        imageUrl: "images/feature-2.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902229"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa33"),
+        name: "dapur",
+        qty: 1,
+        imageUrl: "images/feature-3.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902229"),
+      },
+      // kost baba
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa34"),
+        name: "kamar mandi",
+        qty: 2,
+        imageUrl: "images/feature-4.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902233"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa35"),
+        name: "ruang tamu",
+        qty: 1,
+        imageUrl: "images/feature-2.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902233"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa36"),
+        name: "kulkas",
+        qty: 1,
+        imageUrl: "images/feature-7.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902233"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa37"),
+        name: "dapur",
+        qty: 1,
+        imageUrl: "images/feature-3.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902233"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa38"),
+        name: "kamar kost",
+        qty: 6,
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902233"),
+      },
+      // puri kencana
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa39"),
+        name: "kamar tidur",
+        qty: 3,
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902230"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa40"),
+        name: "dapur",
+        qty: 1,
+        imageUrl: "images/feature-3.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902230"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa41"),
+        name: "ruang tamu",
+        qty: 1,
+        imageUrl: "images/feature-2.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902230"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa42"),
+        name: "kamar mandi",
+        qty: 1,
+        imageUrl: "images/feature-4.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902230"),
+      },
+      //kontrakan rama
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa43"),
+        name: "kamar tidur",
+        qty: 3,
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902231"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa44"),
+        name: "ruang tamu",
+        qty: 1,
+        imageUrl: "images/feature-2.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902231"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa45"),
+        name: "kamar mandi",
+        qty: 1,
+        imageUrl: "images/feature-4.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902231"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa46"),
+        name: "dapur",
+        qty: 1,
+        imageUrl: "images/feature-3.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902231"),
+      },
+      //kontrakan yusuf
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa47"),
+        name: "kamar tidur",
+        qty: 3,
+        imageUrl: "images/feature-1.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902232"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa48"),
+        name: "ruang tamu",
+        qty: 1,
+        imageUrl: "images/feature-2.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902232"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa49"),
+        name: "kamar mandi",
+        qty: 1,
+        imageUrl: "images/feature-4.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902232"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa50"),
+        name: "dapur",
+        qty: 1,
+        imageUrl: "images/feature-3.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902232"),
+      },
+      {
+        // done
+        _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90aa51"),
+        name: "kulkas",
+        qty: 1,
+        imageUrl: "images/feature-7.png",
+        itemId: mongoose.Types.ObjectId("5e96cbe292b97300fc902232"),
       },
     ],
   },
